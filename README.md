@@ -1,4 +1,4 @@
-blalbabl
+změna v main větvi
 git add README.md
-git commit -m "Update README in nova-vetv"
-git push origin nova-vetv
+git commit -m "Update README in nova-vetev"
+git push origin nova-vetev
