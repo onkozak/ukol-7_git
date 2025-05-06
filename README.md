@@ -1,4 +1,4 @@
-echo "Změna v main větvi." >> README.md
+změna v main větvi
 git add README.md
-git commit -m "Update README in main branch"
-git push origin main
+git commit -m "Update README in nova-vetev"
+git push origin nova-vetev
